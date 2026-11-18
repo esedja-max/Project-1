@@ -1,0 +1,9 @@
+Checking or savings account: bank, funds, account, checking, deposit, transactions, money, debit card, chime, branch
+Credit card: card, credit card, credit, capital, synchrony, citi, charge, discover, charges, card account
+Credit reporting or other personal consumer reports: accounts, credit report, report, inquiries, equifax, experian, late, inaccurate, inaccuracies, transunion
+Debt collection: debt, collection, collections, collector, company, validation, collection account, owe, collect, credit
+Money transfer, virtual currency, or money service: paypal, money, funds, transfer, transaction, app, cash app, cash, cashapp, recipient
+Mortgage: mortgage, escrow, home, property, foreclosure, loan, modification, servicing, insurance, closing
+Payday loan, title loan, personal loan, or advance loan: loan, affirm, klarna, solar, pay, personal loan, finance, installment, onemain, financed
+Student loan: student, mohela, loans, student loan, nelnet, loan, school, education, forbearance, edfinancial
+Vehicle loan or lease: vehicle, car, auto, auto loan, repossession, dealership, santander, loan, ally, payment
